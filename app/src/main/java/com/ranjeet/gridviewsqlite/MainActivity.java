@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<Employee> employeeList;
     MyAdapter adapter;
 
+    //Extra code Activated in this MainActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

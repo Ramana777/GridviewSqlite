@@ -8,24 +8,33 @@
         android:id="@+id/tv_emp_id"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#f5e10a"
         android:text="ID" />
 
     <TextView
         android:id="@+id/tv_emp_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#f5e10a"
         android:text="name" />
 
     <TextView
         android:id="@+id/tv_emp_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#f5e10a"
         android:text="Email" />
 
     <TextView
         android:id="@+id/tv_emp_address"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#f5e10a"
+        android:layout_gravity=""
+        android:textSize="50dp"
         android:text="Address" />
 
 </LinearLayout>
